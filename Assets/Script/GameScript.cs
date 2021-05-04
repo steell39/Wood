@@ -14,6 +14,8 @@ public class GameScript : MonoBehaviour
 
     public int addWood = 1;
 
+    int curEnergy;
+
 
 
     //////////////////////////////////////////
@@ -25,7 +27,13 @@ public class GameScript : MonoBehaviour
 
     public void Chop()
     {
-        woodNumber += addWood;
+        curEnergy = Energycript.currentEnergy;
+        if (curEnergy > 0)
+        {
+            woodNumber += addWood;
+        }
+
+
     }
 
 }
