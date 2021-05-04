@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 386
     height: 987
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -345,21 +345,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Script
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 47
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Script
   m_LastFoldersGridSize: 47
   m_LastProjectPath: D:\unity games\Wood
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 34400000
-    m_LastClickedID: 16436
+    m_SelectedIDs: 36400000
+    m_LastClickedID: 16438
     m_ExpandedIDs: 000000002e40000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -513,7 +513,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f2efffff0cf4ffff40fbffffa45300004056000062560000
+      m_ExpandedIDs: 6afaffff98faffff40fbffff8e400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -574,9 +574,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.8722534, y: 0.7023621, z: -76.08968}
+    m_Target: {x: 1.9611988, y: 0.61565775, z: -76.23201}
     speed: 2
-    m_Value: {x: 2.8722534, y: 0.7023621, z: -76.08968}
+    m_Value: {x: 1.9611988, y: 0.61565775, z: -76.23201}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -627,9 +627,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.274517
+    m_Target: 7.192377
     speed: 2
-    m_Value: 8.274517
+    m_Value: 7.192377
   m_Ortho:
     m_Target: 1
     speed: 2
