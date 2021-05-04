@@ -24,7 +24,7 @@ public class GameScript : MonoBehaviour
         woodText.GetComponent<Text>().text = "Wood: " + woodNumber;
         moneyText.GetComponent<Text>().text = "Coins: " + moneyNumber;
     }
-
+    //////////Just Cutting funcion////////////
     public void Chop()
     {
         curEnergy = Energycript.currentEnergy;
